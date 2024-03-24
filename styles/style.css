@@ -246,7 +246,7 @@ width: 100%;
     background-image: url(../assets/img/Type.png);
     background-repeat: no-repeat;
     color: var(--color-white);
-
+    background-size: cover;
 }
 
 .service-img{
